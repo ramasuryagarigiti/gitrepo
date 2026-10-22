@@ -1,0 +1,25 @@
+# Visual Studio user settings
+.vs/
+**/.vs/
+*.vcxproj.user
+
+# Build output
+x64/
+**/x64/
+Debug/
+Release/
+**/Debug/
+**/Release/
+
+# Compiled files
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.idb
+*.tlog/
+*.log
+*.recipe
+*.dt.d.json
+*.dt.module.json
+*.dt.module.json.command
